@@ -3,8 +3,9 @@
 # 💫 About Me:
 🔭 Currently building in the Starknet and Ethereum ecosystem<br>
 🌱 Exploring ZK-STARKs and Layer 2 scaling solutions<br>
-🛠️ Winner at Starknet BUIDL Camp | Selected for Hacker House Bangalore<br>
-🎯 Building StarkStake - AI-powered DeFi platform<br>
+🏅 ETHIndia 2024 Finalist and 3 Track winner<br>
+🛠️ Winner at Starknet Hacker House Bangalore<br>
+🎯 Building StarkPAI - AI-powered DeFi platform<br>
 💡 Open source contributor<br>
 
 ## 🌐 Socials:
@@ -49,12 +50,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 🏆 Recent Achievements:
-- 🌟 Graduated Cum Laude from Starknet Basecamp X
-- 🥇 Winner at Starknet BUIDL Camp
-- 🎯 Selected for Starknet Hacker House Bangalore
-- 🚀 ETHOnline 2024 Final Round
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omsant02&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
