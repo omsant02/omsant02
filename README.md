@@ -45,7 +45,7 @@ Hackathons: Active participant with multiple wins
 ```bash
 # Primary Focus Areas
 protocols=["ethereum", "starknet", "evm_compatible_chains"]
-research=["smart_contract_security", "protocol_vulnerabilities", "core protocol implementations"]
+research=["smart_contract_security", "protocol_vulnerabilities", "core_protocol_implementations"]
 activities=["security_research", "open_source_contributions", "hackathon_participation"]
 ```
 
