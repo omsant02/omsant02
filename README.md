@@ -36,17 +36,10 @@ Hackathons: Active participant with multiple wins
 
 ### 🏆 $ ./hackathon_wins.sh
 ```bash
+✓ Chainlink Chromion: 1st prize Avalanche chross chain track
 ✓ ETHBelgrade 2025: 1st Prize (IExec TEE Track)
 ✓ Starknet Winter Hackathon 2025: DeFi Track Winner
 ✓ ETHIndia 2024: 3 Track Winner (Polygon, Coinbase, Base)  
-```
-
-### 🛠️ $ cat /etc/research_focus.conf
-```bash
-# Primary Focus Areas
-protocols=["ethereum", "starknet", "evm_compatible_chains"]
-research=["smart_contract_security", "protocol_vulnerabilities", "core_protocol_implementations"]
-activities=["security_research", "open_source_contributions", "hackathon_participation"]
 ```
 
 ### 📡 $ netstat -contact
