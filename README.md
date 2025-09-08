@@ -24,7 +24,6 @@ name: om-santoshwar
 role: blockchain_security_researcher  
 focus: ethereum | evm_compatible | starknet
 status: Smart contract auditor in the making
-location: chandrapur, india
 ```
 
 ### ⚡ $ cat /var/log/experience.log
