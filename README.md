@@ -23,7 +23,7 @@
 name: om-santoshwar
 role: blockchain_security_researcher  
 focus: ethereum | evm_compatible | starknet
-status: diving_deep_into_protocol_security
+status: Smart contract auditor in the making
 location: chandrapur, india
 ```
 
@@ -36,18 +36,17 @@ Hackathons: Active participant with multiple wins
 
 ### 🏆 $ ./hackathon_wins.sh
 ```bash
-✓ Chainlink Chromion: 1st prize Avalanche chross chain track
+✓ Chainlink Chromion: 1st prize Avalanche cross chain track
 ✓ ETHBelgrade 2025: 1st Prize (IExec TEE Track)
 ✓ Starknet Winter Hackathon 2025: DeFi Track Winner
 ✓ ETHIndia 2024: 3 Track Winner (Polygon, Coinbase, Base)  
 ```
 
-### 📡 $ netstat -contact
-```bash
-📧 omsantoshwar02@gmail.com
-💼 linkedin.com/in/om-santoshwar-0964a1227  
-🐦 twitter.com/Om_Santoshwar
-```
+### Reach Out to me:
+- 🕊️ Twitter: [Om_Santoshwar](https://x.com/Om_Santoshwar)
+- 📩 Telegram: [omsanto02](https://t.me/omsanto02)
+- 💼 Linkedin: [Om_Santoshwar](https://www.linkedin.com/in/om-santoshwar-0964a1227/)
+- 📬 Email: [omsantoshwar02@gmail.com](mailto:omsantoshwar02@gmail.com)
 
 ---
 
