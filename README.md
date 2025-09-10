@@ -38,7 +38,7 @@ Hackathons: Active participant with multiple wins
 ✓ Chainlink Chromion: 1st prize Avalanche cross chain track
 ✓ ETHBelgrade 2025: 1st Prize (IExec TEE Track)
 ✓ Starknet Winter Hackathon 2025: DeFi Track Winner
-✓ ETHIndia 2024: 3 Track Winner (Polygon, Coinbase, Base)  
+✓ ETHIndia 2024: Finalist and 3 Track Winner (Polygon, Coinbase, Base)  
 ```
 
 ### Reach Out to me:
