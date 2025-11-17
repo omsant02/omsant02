@@ -14,8 +14,6 @@
 🏆 [ETHBelgrade 2025](https://ethbelgrade.rs/) - **1st Prize** (Iexec TEE Track) [PrivateGenome](https://github.com/omsant02/PrivateGenome)  
 🏆 [Starknet Winter Hackathon 2025](https://starknet.io) - **Winner** (DeFi Track) [StarkFPI](https://github.com/omsant02/StarkFPI)  
 🏆 [ETHIndia 2024](https://ethindia.co/) - **Finalist** + 3 Track Winner (Polygon, Coinbase, Base) [zkrail](https://github.com/d4mr/zkrail)  
-🏆 [Starknet Hacker House Bangalore](https://starknet.io) - **Winner** [StarkPAI](https://github.com/omsant02/AI-Wallet-Integration)
-
 
 ## Featured Projects
 
@@ -30,10 +28,6 @@ Crypto-to-fiat payment system using intent solvers and ZK proofs for UPI integra
 **[StarkPAI: AI-Powered Web3 Wallet](https://github.com/omsant02/starkpai)**  
 Natural language blockchain interactions on Starknet with AI integration  
 `TypeScript` `React` `Starknet` `Llama`
-
-**[ZKP Authentication Server](https://github.com/omsant02/ZKP-gRPC-server)**  
-Rust-based gRPC authentication using Zero-Knowledge Proofs  
-`Rust` `Docker` `Circom` `Cryptography`
 
 ### Reach out to me:
 - 🕊️ Twitter: [Om_Santoshwar](https://x.com/Om_Santoshwar)
