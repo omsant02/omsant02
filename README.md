@@ -19,10 +19,8 @@
 
 - [3SIPS: Autonomous DeFi Yield Engine](https://github.com/omsant02/3sips)  
 AI-driven fund management with cross-chain bridging via Avalanche ICTT and Chainlink automation  
-
 - [zkRail: Trustless Payment Rails](https://github.com/d4mr/zkrail)  
 Crypto-to-fiat payment system using intent solvers and ZK proofs for UPI integration  
-
 - [StarkPAI: AI-Powered Web3 Wallet](https://github.com/omsant02/starkpai)  
 Natural language blockchain interactions on Starknet with AI integration  
 
