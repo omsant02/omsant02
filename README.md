@@ -1,56 +1,42 @@
-# 
-```
- ██████╗ ███╗   ███╗    ███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗██╗  ██╗██╗    ██╗ █████╗ ██████╗ 
-██╔═══██╗████╗ ████║    ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝██║  ██║██║    ██║██╔══██╗██╔══██╗
-██║   ██║██╔████╔██║    ███████╗███████║██╔██╗ ██║   ██║   ██║   ██║███████╗███████║██║ █╗ ██║███████║██████╔╝
-██║   ██║██║╚██╔╝██║    ╚════██║██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║██╔══██║██║███╗██║██╔══██║██╔══██╗
-╚██████╔╝██║ ╚═╝ ██║    ███████║██║  ██║██║ ╚████║   ██║   ╚██████╔╝███████║██║  ██║╚███╔███╔╝██║  ██║██║  ██║
- ╚═════╝ ╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+# Hi, I'm Om Santoshwar 👋
+**Smart Contract Security Researcher** | Auditing Solidity & Cairo | Building in Rust, Ts, Go
 
-<div align="center">
+## Experience
 
-**🛡️ BLOCKCHAIN SECURITY RESEARCHER 🛡️**
+[Cypher Networks](https://cyphernetworks.xyz/) - **Smart Contract Developer**  
+[Nethermind](https://nethermind.io) - **Web3 X AI Intern**   
+[OnlyDust](https://onlydust.com) - **Fullstack web3 developer**  
+[Starknet Foundation](https://starknet.io) - **Developer Graduate**
 
-*Making Web3 safer, one vulnerability at a time*
+## Recent Wins
 
-</div>
+🏆 [Chainlink Chromion Hackathon 2025](https://chainlinkchromion.devfolio.co/) - **1st Prize** (Avalanche Cross-Chain Track) [3SIPS](https://github.com/omsant02/3sips)  
+🏆 [ETHBelgrade 2025](https://ethbelgrade.rs/) - **1st Prize** (Iexec TEE Track) [PrivateGenome](https://github.com/omsant02/PrivateGenome)  
+🏆 [Starknet Winter Hackathon 2025](https://starknet.io) - **Winner** (DeFi Track) [StarkFPI](https://github.com/omsant02/StarkFPI)  
+🏆 [ETHIndia 2024](https://ethindia.co/) - **Finalist** + 3 Track Winner (Polygon, Coinbase, Base) [zkrail](https://github.com/d4mr/zkrail)  
+🏆 [Starknet Hacker House Bangalore](https://starknet.io) - **Winner** [StarkPAI](https://github.com/omsant02/AI-Wallet-Integration)
 
----
 
-### 💀 $ whoami
-```bash
-name: om-santoshwar
-role: blockchain_security_researcher  
-focus: ethereum | evm_compatible | starknet
-status: Smart contract auditor in the making
-```
+## Featured Projects
 
-### ⚡ $ cat /var/log/experience.log
-```bash
-Previously: Blockchain Developer Intern @ Nethermind
-Currently: Independent security research & open source contributions
-Hackathons: Active participant with multiple wins
-```
+**[3SIPS: Autonomous DeFi Yield Engine](https://github.com/omsant02/3sips)**  
+AI-driven fund management with cross-chain bridging via Avalanche ICTT and Chainlink automation  
+`Solidity` `TypeScript` `Chainlink` `Cross-Chain` `Eliza AI`
 
-### 🏆 $ ./hackathon_wins.sh
-```bash
-✓ Chainlink Chromion: 1st prize Avalanche cross chain track
-✓ ETHBelgrade 2025: 1st Prize (IExec TEE Track)
-✓ Starknet Winter Hackathon 2025: DeFi Track Winner
-✓ ETHIndia 2024: Finalist and 3 Track Winner (Polygon, Coinbase, Base)  
-```
+**[zkRail: Trustless Payment Rails](https://github.com/d4mr/zkrail)** - *ETHIndia 2024 Winner*  
+Crypto-to-fiat payment system using intent solvers and ZK proofs for UPI integration  
+`Solidity` `Foundry` `React` `AI` `CDP` `Langchain` `Drizzle`
 
-### Reach Out to me:
+**[StarkPAI: AI-Powered Web3 Wallet](https://github.com/omsant02/starkpai)**  
+Natural language blockchain interactions on Starknet with AI integration  
+`TypeScript` `React` `Starknet` `Llama`
+
+**[ZKP Authentication Server](https://github.com/omsant02/ZKP-gRPC-server)**  
+Rust-based gRPC authentication using Zero-Knowledge Proofs  
+`Rust` `Docker` `Circom` `Cryptography`
+
+### Reach out to me:
 - 🕊️ Twitter: [Om_Santoshwar](https://x.com/Om_Santoshwar)
 - 📩 Telegram: [omsanto02](https://t.me/omsanto02)
 - 💼 Linkedin: [Om_Santoshwar](https://www.linkedin.com/in/om-santoshwar-0964a1227/)
 - 📬 Email: [omsantoshwar02@gmail.com](mailto:omsantoshwar02@gmail.com)
-
----
-
-<div align="center">
-
-**"Finding bugs before the bad guys do"**
-
-</div>
