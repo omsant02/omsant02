@@ -3,9 +3,9 @@
 
 ## Experience
 
-- [Cypher Networks](https://cyphernetworks.xyz/) - **Smart Contract Developer**  
+- [Cypher Networks](https://cyphernetworks.xyz/) - **Fullstack Web3 Developer**  
 - [Nethermind](https://nethermind.io) - **Web3 X AI Intern**   
-- [OnlyDust](https://onlydust.com) - **Fullstack web3 developer**  
+- [OnlyDust](https://onlydust.com) - **Fullstack Web3 Developer**  
 - [Starknet Foundation](https://starknet.io) - **Developer Graduate**
 
 ## Recent Hackathon Wins
