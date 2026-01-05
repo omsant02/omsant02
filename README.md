@@ -1,22 +1,24 @@
 # Hi, I'm Om Santoshwar 👋
-**Smart Contract Security Researcher** | Auditing Solidity & Cairo | Building in Rust, Ts, Go
+**FullStack Blockchain Engineer**
 
 ## Experience
 
-- [Cypher Networks](https://cyphernetworks.xyz/) - **Fullstack Web3 Developer**  
+- [Cypher Networks](https://cyphernetworks.xyz/) - **FullStack Blockchain Engineer**  
 - [Nethermind](https://nethermind.io) - **Web3 X AI Intern**   
 - [OnlyDust](https://onlydust.com) - **Fullstack Web3 Developer**  
-- [Starknet Foundation](https://starknet.io) - **Developer Graduate**
 
 ## Recent Hackathon Wins
 
-- 🏆 [Chainlink Chromion Hackathon 2025](https://chainlinkchromion.devfolio.co/) - **1st Prize** (Avalanche Cross-Chain Track) [3SIPS](https://github.com/omsant02/3sips)  
-- 🏆 [ETHBelgrade 2025](https://ethbelgrade.rs/) - **1st Prize** (Iexec TEE Track) [PrivateGenome](https://github.com/omsant02/PrivateGenome)  
-- 🏆 [Starknet Winter Hackathon 2025](https://starknet.io) - **Winner** (DeFi Track) [StarkFPI](https://github.com/omsant02/StarkFPI)  
-- 🏆 [ETHIndia 2024](https://ethindia.co/) - **Finalist** + 3 Track Winner (Polygon, Coinbase, Base) [zkrail](https://github.com/d4mr/zkrail)  
+- 🏆 [Zypherpunk Hackathon](https://zypherpunk.xyz/) - 3 Track Winner (Starknet, Network School, Tachyon) [Liquid Privacy](https://github.com/CulperCypher/plsp)
+- 🏆 [Chainlink Chromion Hackathon 2025](https://chainlinkchromion.devfolio.co/) - 1st Prize (Avalanche Cross-Chain Track) [3SIPS](https://github.com/omsant02/3sips)  
+- 🏆 [ETHBelgrade 2025](https://ethbelgrade.rs/) - 1st Prize (Iexec TEE Track) [PrivateGenome](https://github.com/omsant02/PrivateGenome)  
+- 🏆 [Starknet Winter Hackathon 2025](https://starknet.io) - Winner (DeFi Track) [StarkFPI](https://github.com/omsant02/StarkFPI)  
+- 🏆 [ETHIndia 2024](https://ethindia.co/) - Finalist + 3 Track Winner (Polygon, Coinbase, Base) [zkrail](https://github.com/d4mr/zkrail)  
 
 ## Projects
 
+- [Liquid Privacy](https://github.com/CulperCypher/plsp)    
+Privacy-first liquid staking protocol with ZKP privacy layer using Noir circuits. Extended to Zcash via custom bridge
 - [3SIPS: Autonomous DeFi Yield Engine](https://github.com/omsant02/3sips)  
 AI-driven fund management with cross-chain bridging via Avalanche ICTT and Chainlink automation  
 - [zkRail: Trustless Payment Rails](https://github.com/d4mr/zkrail)  
