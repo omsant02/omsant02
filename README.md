@@ -23,8 +23,9 @@ Privacy-first liquid staking protocol with ZKP privacy layer using Noir circuits
 AI-driven fund management with cross-chain bridging via Avalanche ICTT and Chainlink automation  
 - [zkRail: Trustless Payment Rails](https://github.com/d4mr/zkrail)  
 Crypto-to-fiat payment system using intent solvers and ZK proofs for UPI integration  
-- [StarkPAI: AI-Powered Web3 Wallet](https://github.com/omsant02/starkpai)  
-Natural language blockchain interactions on Starknet with AI integration  
+
+## Writing ✍️
+- [Medium](https://medium.com/@omsantoshwar02) - Writing about how things actually work — Finance, Web3 & System Architectures
 
 ## Reach out to me:
 
