@@ -1,11 +1,23 @@
 # Hi, I'm Om Santoshwar 👋
-**FullStack Blockchain Engineer**
+**Web3 Engineer | Smart Contracts & Security**
 
 ## Experience
 
-- [Cypher Networks](https://cyphernetworks.xyz/) - **FullStack Blockchain Engineer**  
-- [Nethermind](https://nethermind.io) - **Web3 X AI Intern**   
-- [OnlyDust](https://onlydust.com) - **Fullstack Web3 Developer**  
+- [Cypher Networks](https://cyphernetworks.xyz/) - **Tech Lead | Smart Contract & Full-Stack Engineer**  
+- [Nethermind](https://nethermind.io) - **Web3 X AI Intern**
+
+## Security Research
+- Sherlock Audit Contests - dreUSD, Metric DEX
+- CodeHawks Audit Contests - BattleChain Confidence Pools
+- CTF Solving
+
+## Open Source Contributions
+- [Coco (Cashu BTC)](https://github.com/cashubtc/coco) - Added binary token encoding 
+  to WalletApi ([PR #125](https://github.com/cashubtc/coco/pull/125)), built 
+  topological build-order script ([PR #143](https://github.com/cashubtc/coco/pull/143))
+- [Routstr](https://github.com/Routstr/routstrd) - Integrated coco as replacement for 
+  cocod inside routstrd ([PR #40](https://github.com/Routstr/routstrd/pull/40))
+- 35+ merged [contributions](https://github.com/pulls/search?page=1&q=is%3Apr+author%3Aomsant02+is%3Amerged) across Starknet and Web3 ecosystem via OnlyDust
 
 ## Recent Hackathon Wins
 
