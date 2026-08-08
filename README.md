@@ -7,7 +7,7 @@
 - [Nethermind](https://nethermind.io) - **Web3 X AI Intern**
 
 ## Security Research
-- Sherlock Audit Contests - dreUSD, Metric DEX
+- Sherlock Audit Contests - dreUSD, Metric DEX, TARE ERC-7540 Vault
 - CodeHawks Audit Contests - BattleChain Confidence Pools
 - CTF Solving
 
