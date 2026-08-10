@@ -6,7 +6,7 @@
 - [Cypher Networks](https://cyphernetworks.xyz/) - **Tech Lead | Smart Contract & Full-Stack Engineer**  
 - [Nethermind](https://nethermind.io) - **Web3 x AI Intern**
 
-## Security Research
+## Smart Contract Auditing
 - Sparrow Finance (Private Audit) - 1 High (rate-locking vulnerability in unstaking flow)
 - Sherlock Audit Contests - dreUSD, Metric DEX, TARE ERC-7540 Vault
 - CodeHawks Audit Contests - BattleChain Confidence Pools
