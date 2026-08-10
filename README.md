@@ -4,7 +4,7 @@
 ## Experience
 
 - [Cypher Networks](https://cyphernetworks.xyz/) - **Tech Lead | Smart Contract & Full-Stack Engineer**  
-- [Nethermind](https://nethermind.io) - **Web3 X AI Intern**
+- [Nethermind](https://nethermind.io) - **Web3 x AI Intern**
 
 ## Security Research
 - Sparrow Finance (Private Audit) - 1 High (rate-locking vulnerability in unstaking flow)
@@ -30,7 +30,7 @@
 
 
 ## Writing ✍️
-- [Medium](https://medium.com/@omsantoshwar02) - Writing about how things actually work — Finance, Web3 & System Architectures
+- [Medium](https://medium.com/@omsantoshwar02) - Writing about how things actually work - Finance, Web3 & System Architectures
 
 ## Reach out to me:
 
