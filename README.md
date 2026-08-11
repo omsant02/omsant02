@@ -2,7 +2,7 @@
 **Web3 Engineer | Smart Contracts & Security**
 
 ## Experience
-
+- **Smart Contract Auditor** (Independent)
 - [Cypher Networks](https://cyphernetworks.xyz/) - **Tech Lead | Smart Contract & Full-Stack Engineer**  
 - [Nethermind](https://nethermind.io) - **Web3 x AI Intern**
 
