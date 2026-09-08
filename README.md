@@ -17,7 +17,7 @@
   to WalletApi ([PR #125](https://github.com/cashubtc/coco/pull/125)), built 
   topological build-order script ([PR #143](https://github.com/cashubtc/coco/pull/143))
 - [Routstr](https://github.com/Routstr/routstrd) - Integrated coco as replacement for 
-  cocod inside routstrd ([PR #40](https://github.com/Routstr/routstrd/pull/40))
+  cocod inside routstrd ([commits](https://github.com/Routstr/routstrd/commits/main?author=omsant02))
 - 35+ merged [contributions](https://github.com/pulls/search?page=1&q=is%3Apr+author%3Aomsant02+is%3Amerged) across Starknet and Web3 ecosystem via OnlyDust
 
 ## Projects
