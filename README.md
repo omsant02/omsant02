@@ -8,9 +8,9 @@
 
 ## Smart Contract Auditing
 - Sparrow Finance (Private Audit) - 1 High (rate-locking vulnerability in unstaking flow)
+- Immunefi Audit Contest - Firelight (1 Low: maxMint() ERC-4626 rounding mismatch)
 - Sherlock Audit Contests - dreUSD, Metric DEX, TARE ERC-7540 Vault
 - CodeHawks Audit Contests - BattleChain Confidence Pools
-- CTF Solving
 
 ## Open Source Contributions
 - [Coco (Cashu BTC)](https://github.com/cashubtc/coco) - Added binary token encoding 
