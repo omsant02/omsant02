@@ -7,10 +7,17 @@
 - [Nethermind](https://nethermind.io) - **Web3 x AI Intern**
 
 ## Smart Contract Auditing
-- Sparrow Finance (Private Audit) - 1 High (rate-locking vulnerability in unstaking flow)
-- Immunefi Audit Contest - Firelight (1 Low: maxMint() ERC-4626 rounding mismatch)
-- Sherlock Audit Contests - dreUSD, Metric DEX, TARE ERC-7540 Vault
-- CodeHawks Audit Contests - BattleChain Confidence Pools
+
+### Findings
+| Protocol | Platform | Severity | Finding | Proof |
+|---|---|---|---|---|
+| Rain USDR | HackenProof | High | Solvency check ignores seized debt after liquidation, letting reserves be redeemed while bad debt is outstanding | [Profile](https://hackenproof.com/hackers/omsanto) |
+| Rain USDR | HackenProof | High | End.flow() can latch the redemption rate before all vaults are settled | [Profile](https://hackenproof.com/hackers/omsanto) |
+| Rain USDR | HackenProof | Medium | End.thaw() blocked by chop-premium surplus residue | [Profile](https://hackenproof.com/hackers/omsanto) |
+| Rain USDR | HackenProof | Medium | CircuitBreaker deviation check diluted by its own observation | [Profile](https://hackenproof.com/hackers/omsanto) |
+| Firelight | Immunefi | Low | maxMint() ERC-4626 rounding mismatch | [Profile](https://immunefi.com/profile/omsanto/) |
+| Sparrow Finance | Private review | High | Rate-locking vulnerability in unstaking flow | Private engagement |
+
 
 ## Open Source Contributions
 - [Coco (Cashu BTC)](https://github.com/cashubtc/coco) - Added binary token encoding 
