@@ -15,7 +15,7 @@
 | Rain USDR | HackenProof | High | End.flow() can latch the redemption rate before all vaults are settled | [Profile](https://hackenproof.com/hackers/omsanto) |
 | Rain USDR | HackenProof | Medium | End.thaw() blocked by chop-premium surplus residue | [Profile](https://hackenproof.com/hackers/omsanto) |
 | Rain USDR | HackenProof | Medium | CircuitBreaker deviation check diluted by its own observation | [Profile](https://hackenproof.com/hackers/omsanto) |
-| Firelight | Immunefi | Low | maxMint() ERC-4626 rounding mismatch | [Profile](https://immunefi.com/profile/omsanto/) |
+| Firelight | Immunefi | Low | maxMint() ERC-4626 rounding mismatch | [Report](https://reports.immunefi.com/firelight-sep.2026-or-audit-competition/89486-sc-low-incorrect-rounding-in-maxmint-causes-mint-maxmint-to-revert-with-depositlimitexceeded-v) |
 | Sparrow Finance | Private review | High | Rate-locking vulnerability in unstaking flow | Private engagement |
 
 
